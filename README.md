@@ -1,8 +1,7 @@
-<h1 align ="center> Hola, me presento soy Helen Acevedo 👋 <img src="https://media.tenor.com/GXw6O81_MlcAAAAC/kawaii-kawaii-cat.gif" width="50"></h1>
+<h1 align ="center"> Hola, me presento soy Helen Acevedo 👋 <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="50"></h1>
 <h3 align="center"> Apasionada por la tecnología y el desarrollo, actualmente aprendiendo un poco de todo.👨‍💻</h3>
-<img align="center" src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif width="1000" height="250">
-<br>
-<img src="https://assets.sutori.com/user-uploads/image/f2312812-9d51-4abc-8e1d-d59424d30af2/cfd5173108bfb35a726af0c9c1a422fc.gif" width="260">
+
+
 <img align="center" src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif width="1000" height="250">
 
 - 🔭 &ensp;Me gusta aprender todo lo que pueda de la tecnología ...
