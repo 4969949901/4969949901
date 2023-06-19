@@ -1,4 +1,8 @@
-### Hola, me presento soy Helen Acevedo 👋
+### Hola, me presento soy Helen Acevedo 👋<img src="[https://pin.it/2qgTRMO](https://media.tenor.com/GXw6O81_MlcAAAAC/kawaii-kawaii-cat.gif)">
+<h3 align="center"> Actualmente me encuentro estudiando Ingenieria en sistemas, no siempre fui apasionada por la tecnología👨‍💻</h3>
+<h3 align="center">pero ya hace mas de 5 años encontre un lugar magnifico en lo que es programación sigo aprendiendo nuevas cosas cada dia pero es emocionante descubrir nuevas herramientas y funciones que se pueden crear.</h3>
+<br>
+<img src="https://assets.sutori.com/user-uploads/image/f2312812-9d51-4abc-8e1d-d59424d30af2/cfd5173108bfb35a726af0c9c1a422fc.gif">
 
 <!--
 **4969949901/4969949901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-    GitHub State | <h1 align="center">
+     <h1 align="center">
     GitHub State | 4969949901-Helen Acevedo Tobar
-</h1>
-</h1>
-
+    </h1>
 ![4969949901,s GitHub stats](https://github-readme-stats.vercel.app/api?username=4969949901&theme=-yellow&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4969949901&theme=galexy-yellow&layout=compact)
