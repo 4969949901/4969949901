@@ -1,6 +1,6 @@
 
 <h1 align ="center"> Hola, me presento soy Helen Acevedo 👋 <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="50"></h1>
-<h3 align="center"> Apasionada por la tecnología y el desarrollo.👨‍💻</h3>
+<h3 align="center"> Apasionada por la tecnología y el desarrollo web.👨‍💻</h3>
 
 # Sobre mi 👨‍💻:
 <img align='right' src="https://media.tenor.com/mJiMZwDloXwAAAAC/typing-cute.gif" width="200">
