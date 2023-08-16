@@ -16,7 +16,7 @@
 
 
     
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Lenguajes  de progración:
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Technologies :
 <br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height=70"/>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
@@ -24,13 +24,13 @@
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="python" width="50" height="50"/>
 <a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="python" width="70" height="70"/>
     
-## Herramientas y programas que utilizo💻:
+## Tools💻:
 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="intellijidea" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/>
 <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="vscode" width="40" height="40"/>
-## Educación 📖:
-- Estudio en [Universidad Mariano Gálvez de Guatemala](https://www.umg.edu.gt/) (Ingenieria en Sistemas y Ciencias de la Información.<img src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="50">)
+## Education 📖:
+- Student in [Universidad Mariano Gálvez de Guatemala](https://www.umg.edu.gt/) (Systems Engineering and Information Sciences.<img src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="50">)
 <br>
 <div align="center">
 <br><p align="centre"><b>Visitantes:</b></p>  
